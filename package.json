@@ -11,6 +11,10 @@
     "express": "^4.16.2"
   },
   "devDependencies": {},
-  "author": "",
-  "description": ""
+  "author": "pluone",
+  "description": "receive data",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pluone/receive-data.git"
+  }
 }
